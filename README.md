@@ -70,15 +70,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/mahmudulhaque.rifat.188/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rifat.swe00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mahmudulhaque.rifat.188/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a)
+  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rifat.swe00@gmail.com)
 </p>
 
 ---
