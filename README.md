@@ -27,6 +27,7 @@
 * 👯 Open to collaboration
 * 💬 Ask me about JavaScript, APIs, Web Dev
 * ⚡ Love building real-world solutions
+* For Inquiries rifat.swe00@gmail.com
 
 ---
 
