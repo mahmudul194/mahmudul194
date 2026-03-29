@@ -69,11 +69,11 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+
   [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mahmudulhaque.rifat.188/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a)
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rifat.swe00@gmail.com)
-</p>
+
 ---
 
 ## 💡 Quote
