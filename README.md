@@ -1,13 +1,13 @@
 <!-- 🔥 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahmudul+Hoque+Rifat;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <h1 align="center">👋 Mahmudul Hoque Rifat</h1>
 
 <p align="center">
-  💻 Developer | 🚀 Tech Enthusiast | 🌍 AI Anthusiast
+  💻 Software Engineer | 🖥️ Developer | 🚀 Tech Entusiast
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,c,react,nodejs,express,git,github,vscode,nextjs" />
 </p>
 
 ---
@@ -70,9 +70,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.facebook.com/mahmudulhaque.rifat.188/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
+  <a href="www.linkedin.com/in/mahmudul-hoque-rifat-84762733a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="rifat.swe00@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
