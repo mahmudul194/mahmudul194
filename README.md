@@ -74,7 +74,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a)
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rifat.swe00@gmail.com)
 </p>
-
 ---
 
 ## 💡 Quote
