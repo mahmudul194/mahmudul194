@@ -1,56 +1,57 @@
-<!-- 🔥 Animated Typing Header -->
+<!-- 🔥 Animated Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Mahmudul+Hoque+Rifat;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahmudul+Hoque+Rifat;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <h1 align="center">👋 Mahmudul Hoque Rifat</h1>
 
 <p align="center">
-  💻 Software Engineer | 🚀 Full Stack Developer | ⚡ Tech Enthusiast
+  💻 Software Engineer | 🖥️ Developer | 🚀 Tech Entusiast
 </p>
 
 ---
 
-<!-- 👀 Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmudul194&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🧑‍💻 About Me
-
-- 🔭 Building modern & scalable web applications  
-- 🌱 Currently learning **Backend + System Design**  
-- 👯 Looking to collaborate on real-world projects  
-- 💬 Ask me about **JavaScript, React, APIs**  
-- ⚡ Passionate about solving real problems with code  
-- 📩 Email: **rifat.swe00@gmail.com**
-
----
-
-# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,nextjs,nodejs,express,java,c,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=mahmudul194&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🧑‍💻 About Me
+
+* 🔭 Working on modern web applications
+* 🌱 Learning backend & system design
+* 👯 Open to collaboration
+* 💬 Ask me about JavaScript, APIs, Web Dev
+* ⚡ Love building real-world solutions
+* For Inquiries rifat.swe00@gmail.com
+
+---
+
+## 🧠 Skills & Tools
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmudul194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mahmudul194&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul194&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,java,c,react,nodejs,express,git,github,vscode,nextjs" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul194&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul194&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul194&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahmudul194&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -58,7 +59,7 @@
 
 ---
 
-# 🔥 Contribution Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul194&theme=tokyo-night" />
@@ -66,33 +67,22 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahmudul194/mahmudul194/output/github-contribution-grid-snake.svg" />
-</p>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mahmudulhaque.rifat.188/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rifat.swe00@gmail.com)
-
-</p>
+  [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mahmudulhaque.rifat.188/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hoque-rifat-84762733a)
+  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rifat.swe00@gmail.com)
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
-> "First, solve the problem. Then, write the code."
+> "Code is like humor. When you have to explain it, it’s bad."
 
 ---
 
 <p align="center">
   ⭐️ From Mahmudul Hoque Rifat
 </p>
-<!-- force refresh -->
+you gave me this readme file but it doesn't update the contribution i'm giving make it like each time i contribute it update 
