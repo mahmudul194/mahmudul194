@@ -387,7 +387,12 @@ def main():
         token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
         if not login or not token: sys.exit("Need a username and GH_TOKEN/GITHUB_TOKEN")
         data = fetch(login, token)
-    stamp = datetime.now(timezone.utc).strftime("%b %d, %Y").replace(" 0", " ")
+    try:
+        from zoneinfo import ZoneInfo
+        now = datetime.now(ZoneInfo(os.environ.get("STATS_TZ", "Asia/Dhaka")))
+    except Exception:
+        now = datetime.now(timezone.utc)
+    stamp = f"{now.strftime('%b')} {now.day}, {now.year}"
     os.makedirs(OUT, exist_ok=True)
     files = {**desktop(data, stamp), **mobile(data, stamp)}
     for name, content in files.items():

@@ -2,14 +2,20 @@ name: Update profile page
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:         # lets you run it manually from the Actions tab
+    - cron: "0 */3 * * *"   # every 3 hours
+    - cron: "5 18 * * *"    # 00:05 Asia/Dhaka, so the date flips right after midnight
+  workflow_dispatch:         # run it manually from the Actions tab any time
   push:
     paths:
       - "scripts/generate_page.py"
+      - ".github/workflows/update-stats.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-profile-page
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -23,10 +29,11 @@ jobs:
 
       - name: Generate page
         env:
-          # Optional: add a personal access token (read:user scope) as the secret STATS_TOKEN
-          # to include private contributions. Falls back to the built-in token otherwise.
+          # Add a personal access token (scope: read:user) as the repo secret STATS_TOKEN
+          # to count private contributions too. Falls back to the built-in token.
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
+          STATS_TZ: Asia/Dhaka
         run: python scripts/generate_page.py "$GITHUB_USER"
 
       - name: Commit changes
@@ -34,5 +41,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/
-          git diff --staged --quiet || git commit -m "chore: update profile page"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update profile page"
+            git pull --rebase
+            git push
+          fi
